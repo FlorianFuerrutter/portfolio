@@ -75,7 +75,6 @@ The manual verification of the engravings should be replaced with an automated i
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, SQL
 ![example stone image](/htl_thesis/engraving.PNG)
-![example stone image](/htl_thesis/logo.PNG)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)

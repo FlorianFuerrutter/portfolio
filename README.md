@@ -5,7 +5,7 @@ I present here a collection of my projects and creations.
 Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU.
 
 **Keywords**: raytracing, CUDA, optix, PBR, real time rendering, GPU
-![example render image](/raytracing/front.png)
+![example render image](/raytracing/front.PNG)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)

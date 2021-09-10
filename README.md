@@ -20,7 +20,7 @@ Used technologies:
 Exploring Newtonian simulations.
 
 **Keywords**: simulation, CUDA, GPU
-![example simulation image](/newtonian_sim/front.png)
+![example simulation image](/newtonian_sim/front.PNG)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)
@@ -56,7 +56,7 @@ Used technologies:
 Aims to create a Desktop- and Mobile-Application to count passing cars. With these numbers a detailed traffic analysis is generated.
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, neural network
-![example traffic image](traffic_statistics/front.PNG)
+![example traffic image](traffic_statistics/front.png)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)
@@ -74,8 +74,8 @@ quality control of the engravings is currently done manually by random sampling.
 The manual verification of the engravings should be replaced with an automated image processing system. The design of a concept and development is part of the project. The intention of the project is a finished prototype which fully automatically verifies the engraving of a manually inserted crystal using image processing software. In this way, a detection of inferior crystals according to clearly defined quality standards is possible. The software is able to get images from the camera and execute analyzing algorithms. 
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, SQL
-![example stone image](/htl_thesis/engraving.png)
-![example stone image](/htl_thesis/logo.png)
+![example stone image](/htl_thesis/engraving.PNG)
+![example stone image](/htl_thesis/logo.PNG)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)

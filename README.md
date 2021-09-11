@@ -39,7 +39,7 @@ Used technologies:
 
 
 ## Pepper (robot) / face recognition
-Working at [Casablanca](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [SoftBank](https://group.softbank/en).
+Working at [*Casablanca*](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [*SoftBank*](https://group.softbank/en).
 
 **Keywords**: image processing, OpenCV, neural network
 
@@ -99,7 +99,7 @@ Used technologies:
 - [TensorFlow](https://www.tensorflow.org/)
 
 ### Uni Laboratory example: Measurement speed of light
-using a camera and a rotating mirror setup
+Using a camera and a rotating mirror setup
 
 **Keywords**: image processing, optics, physics
 ![example laboratory image](/other/lab.png)

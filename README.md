@@ -1,5 +1,5 @@
 # portfolio
-I present here a collection of my projects and creations.
+I present here a collection of my projects and creations. [linkedin](https://www.linkedin.com/in/florian-f%C3%BCrrutter-a4b7b2142/)
 
 ## Raytracing with NVIDIA OPTIX™
 Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU.

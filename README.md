@@ -62,6 +62,7 @@ Used technologies:
 - [C++ 17](https://isocpp.org/)
 - [OpenCV](https://github.com/opencv/opencv)
 - [Qt, QML](https://www.qt.io/)
+- [SQL, SQLite](https://www.sqlite.org/index.html)
 
 ## Engineering College Thesis (*HTL-Diplomarbeit*)
 My Thesis for acquiring the engineer title. In cooperation with [*Swarovski*](https://www.swarovski.com). 

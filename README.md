@@ -1,8 +1,8 @@
-# portfolio
+# portfolio - Florian Fürrutter
 I present here a collection of my projects and creations. [linkedin](https://www.linkedin.com/in/florian-f%C3%BCrrutter-a4b7b2142/)
 
 ## Raytracing with NVIDIA OPTIX™
-Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU.
+Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU. The lower image presents a simple test setup.
 
 **Keywords**: raytracing, CUDA, optix, PBR, real time rendering, GPU
 ![example render image](/raytracing/front.PNG)
@@ -17,7 +17,7 @@ Used technologies:
 - [assimp](https://github.com/assimp/assimp)
 
 ## First entries into simulation
-Exploring Newtonian simulations.
+Exploring (Newtonian/Quantum) simulations. Part Computational Physics.
 
 **Keywords**: simulation, CUDA, GPU
 ![example simulation image](/newtonian_sim/front.PNG)
@@ -39,7 +39,7 @@ Used technologies:
 
 
 ## Pepper (robot) / face recognition
-Working at [*Casablanca*](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [*SoftBank*](https://group.softbank/en).
+Working at [*Casablanca*](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [*SoftBank*](https://group.softbank/en). (Machine Learning to Cache-System and Image-Processing)
 
 **Keywords**: image processing, OpenCV, neural network
 
@@ -89,7 +89,7 @@ Used technologies:
 And many others ...
 
 ### Neural networks
-Exploring some neural nets, especially GAN types.
+Exploring some neural nets, especially GAN types. This type is known for creating realistic "fake" persons and landscapes.
 
 **Keywords**: neural network, Keras, Tensorflow
 ![GAN structure](/other/gan.png)
@@ -100,7 +100,7 @@ Used technologies:
 - [TensorFlow](https://www.tensorflow.org/)
 
 ### Uni Laboratory example: Measurement speed of light
-Using a camera and a rotating mirror setup
+Using a camera and a rotating mirror setup. Example for creating python plots.
 
 **Keywords**: image processing, optics, physics
 ![example laboratory image](/other/lab.png)

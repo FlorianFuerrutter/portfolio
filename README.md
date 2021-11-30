@@ -89,10 +89,12 @@ Used technologies:
 And many others ...
 
 ### Neural networks
-Exploring some neural nets, especially GAN types. This type is known for creating realistic "fake" persons and landscapes.
+Exploring some neural nets, especially GAN types. 
+![GAN structure](/other/gan1.png)
+This type is known for creating realistic "fake" persons and landscapes.
 
 **Keywords**: neural network, Keras, Tensorflow
-![GAN structure](/other/gan.png)
+![GAN structure](/other/gan0.png)
 
 Used technologies:
 - [Python](https://www.python.org/)

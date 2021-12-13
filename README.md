@@ -5,7 +5,7 @@ I present here a collection of my projects and creations. [linkedin](https://www
 Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU. The lower image presents a simple test setup.
 
 **Keywords**: raytracing, CUDA, optix, PBR, real time rendering, GPU
-![example render image](/img/ray_tracing0.png)
+![example render image](/img/ray_tracing0.PNG)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)
@@ -20,7 +20,7 @@ Used technologies:
 Exploring (Newtonian/Quantum) simulations. Runge–Kutta, RK45.
 
 **Keywords**: simulation, CUDA, GPU
-![example simulation image](/img/sim1.png)
+![example simulation image](/img/sim1.PNG)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)
@@ -97,7 +97,7 @@ quality control of the engravings is currently done manually by random sampling.
 The manual verification of the engravings should be replaced with an automated image processing system. The design of a concept and development is part of the project. The intention of the project is a finished prototype which fully automatically verifies the engraving of a manually inserted crystal using image processing software. In this way, a detection of inferior crystals according to clearly defined quality standards is possible. The software is able to get images from the camera and execute analyzing algorithms. 
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, SQL
-![example stone image](/img/htl_thesis0.png)
+![example stone image](/img/htl_thesis0.PNG)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)

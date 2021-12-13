@@ -5,7 +5,7 @@ I present here a collection of my projects and creations. [linkedin](https://www
 Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU. The lower image presents a simple test setup.
 
 **Keywords**: raytracing, CUDA, optix, PBR, real time rendering, GPU
-![example render image](/raytracing/front.PNG)
+![example render image](/img/ray_tracing0.png)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)
@@ -17,21 +17,28 @@ Used technologies:
 - [assimp](https://github.com/assimp/assimp)
 
 ## First entries into simulation
-Exploring (Newtonian/Quantum) simulations. Part Computational Physics.
+Exploring (Newtonian/Quantum) simulations. Runge–Kutta, RK45.
 
 **Keywords**: simulation, CUDA, GPU
-![example simulation image](/newtonian_sim/front.PNG)
+![example simulation image](/img/sim1.png)
 
 Used technologies:
 - [C++ 20](https://isocpp.org/)
 - [CUDA v11.x](https://developer.nvidia.com/cuda-zone)
 - [NVIDIA® GVDB Voxels](https://github.com/NVIDIA/gvdb-voxels)
+- [Python](https://www.python.org/)
+
+##### N-body system
+![example simulation image](/img/sim2.png)
+
+##### 3-body systems
+![example simulation image](/img/sim3.png)
 
 ## Blender
-Experimenting with blender and the Tyrolean-Geographic information system (Datenquelle: Land Tirol - data.tirol.gv.at)
+Experimenting with blender and the Tyrolean-Geographic information system (Datenquelle: Land Tirol - data.tirol.gv.at). Created a render from my hometown-mountain.
 
 **Keywords**: Blender, GIS, rendering
-![example blender image](/blender_gis/front.png)
+![example blender image](/img/blender_gis0.png)
 
 Used technologies:
 - [Blender](https://www.blender.org/)
@@ -41,7 +48,7 @@ Used technologies:
 ## Pepper (robot) / face recognition
 Working at [*Casablanca*](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [*SoftBank*](https://group.softbank/en). (Machine Learning to Cache-System and Image-Processing)
 
-**Keywords**: image processing, OpenCV, neural network
+**Keywords**: image processing, OpenCV, neural networks, face recognition/detection
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)
@@ -52,11 +59,26 @@ Used technologies:
 - [Keras](https://keras.io/)
 - [TensorFlow](https://www.tensorflow.org/)
 
+## Computational-Physics
+Nice plots created for projects regarding computational physics.
+
+**Keywords**: physics, computational physics
+
+##### Damped driven mathematical pendulum - chaotic behavior
+![example comp image](/img/comp0.png)
+![example comp image](/img/comp2.png)
+
+##### Quantum perturbed harmonic oscillator
+![example comp image](/img/comp1.png)
+
+Used technologies:
+- [Python](https://www.python.org/)
+
 ## Automatic Traffic-Statistics 
 Aims to create a Desktop- and Mobile-Application to count passing cars. With these numbers a detailed traffic analysis is generated.
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, neural network
-![example traffic image](traffic_statistics/front.png)
+![example traffic image](/img/traffic_stat0.png)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)
@@ -67,7 +89,7 @@ Used technologies:
 ## Engineering College Thesis (*HTL-Diplomarbeit*)
 My Thesis for acquiring the engineer title. In cooperation with [*Swarovski*](https://www.swarovski.com). 
 
-![example stone image](/htl_thesis/front.jpg)
+![example stone image](/img/htl_thesis1.jpg)
 
 **Abstract**:
 Some crystal glassware of Swarovski is marked by means of laser engraving. The 
@@ -75,7 +97,7 @@ quality control of the engravings is currently done manually by random sampling.
 The manual verification of the engravings should be replaced with an automated image processing system. The design of a concept and development is part of the project. The intention of the project is a finished prototype which fully automatically verifies the engraving of a manually inserted crystal using image processing software. In this way, a detection of inferior crystals according to clearly defined quality standards is possible. The software is able to get images from the camera and execute analyzing algorithms. 
 
 **Keywords**: image processing, GUI, Qt, automation, OpenCV, SQL
-![example stone image](/htl_thesis/engraving.PNG)
+![example stone image](/img/htl_thesis0.png)
 
 Used technologies:
 - [C++ 17](https://isocpp.org/)
@@ -91,12 +113,12 @@ And many others ...
 ### Neural networks
 Exploring some neural nets, especially GAN types. 
 
-![GAN structure](/other/gan1.png)
+![GAN structure](/img/gan1.png)
 
 This type is known for creating realistic "fake" persons and landscapes.
 
 **Keywords**: neural network, Keras, Tensorflow
-![GAN structure](/other/gan0.png)
+![GAN structure](/img/gan0.png)
 
 Used technologies:
 - [Python](https://www.python.org/)
@@ -107,7 +129,7 @@ Used technologies:
 Using a camera and a rotating mirror setup. Example for creating python plots.
 
 **Keywords**: image processing, optics, physics
-![example laboratory image](/other/lab.png)
+![example laboratory image](/img/lab0.png)
 
 Used technologies:
 - [Python](https://www.python.org/)

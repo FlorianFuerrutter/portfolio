@@ -1,8 +1,8 @@
 # portfolio - Florian Fürrutter
-I present here a collection of my projects and creations. [linkedin](https://www.linkedin.com/in/florian-f%C3%BCrrutter-a4b7b2142/)
+I present here a collection of my projects and creations. Also check out [linkedin](https://www.linkedin.com/in/florian-f%C3%BCrrutter-a4b7b2142/).
 
 ## Raytracing with NVIDIA OPTIX™
-Creating a custom raytracing render engine for displaying photo realistic real time simulations on the GPU. The lower image presents a simple test setup.
+Custom raytracing render engine for displaying photo realistic real time simulations.
 
 **Keywords**: raytracing, CUDA, optix, PBR, real time rendering, GPU
 ![example render image](/img/ray_tracing0.PNG)
@@ -16,8 +16,8 @@ Used technologies:
 - [GLFW](https://github.com/glfw/glfw)
 - [assimp](https://github.com/assimp/assimp)
 
-## First entries into simulation
-Exploring (Newtonian/Quantum) simulations. Runge–Kutta, RK45.
+## Physical simulations
+Classical/Quantum simulations.
 
 **Keywords**: simulation, CUDA, GPU
 ![example simulation image](/img/sim1.PNG)
@@ -28,22 +28,11 @@ Used technologies:
 - [NVIDIA® GVDB Voxels](https://github.com/NVIDIA/gvdb-voxels)
 - [Python](https://www.python.org/)
 
-##### N-body system
+**N-body systems** 
 ![example simulation image](/img/sim2.png)
 
-##### 3-body systems
+**3-body systems**
 ![example simulation image](/img/sim3.png)
-
-## Blender
-Experimenting with blender and the Tyrolean-Geographic information system (Datenquelle: Land Tirol - data.tirol.gv.at). Created a render from my hometown-mountain.
-
-**Keywords**: Blender, GIS, rendering
-![example blender image](/img/blender_gis0.png)
-
-Used technologies:
-- [Blender](https://www.blender.org/)
-- [QGIS](https://www.qgis.org/de/site/index.html)
-
 
 ## Pepper (robot) / face recognition
 Working at [*Casablanca*](https://www.casablanca.at/) implementing a face recognition system for the Pepper (robot) by [*SoftBank*](https://group.softbank/en). (Machine Learning to Cache-System and Image-Processing)
@@ -64,15 +53,27 @@ Nice plots created for projects regarding computational physics.
 
 **Keywords**: physics, computational physics
 
-##### Damped driven mathematical pendulum - chaotic behavior
+**Damped driven mathematical pendulum - chaotic behavior**
 ![example comp image](/img/comp0.png)
 ![example comp image](/img/comp2.png)
 
-##### Quantum perturbed harmonic oscillator
+**Quantum perturbed harmonic oscillator**
 ![example comp image](/img/comp1.png)
 
 Used technologies:
 - [Python](https://www.python.org/)
+
+## Neural networks
+Exploring some neural nets, especially GAN types. This type is known for creating realistic "fake" persons and landscapes.
+
+**Keywords**: neural network, Keras, Tensorflow
+
+![GAN structure](/img/gan1.png)
+
+Used technologies:
+- [Python](https://www.python.org/)
+- [Keras](https://keras.io/)
+- [TensorFlow](https://www.tensorflow.org/)
 
 ## Automatic Traffic-Statistics 
 Aims to create a Desktop- and Mobile-Application to count passing cars. With these numbers a detailed traffic analysis is generated.
@@ -106,26 +107,7 @@ Used technologies:
 - [SQL, MariaDB](https://mariadb.org/)
 - [Basler (API and Camera)](https://www.baslerweb.com/de/)
 
-
-## Others
-And many others ...
-
-### Neural networks
-Exploring some neural nets, especially GAN types. 
-
-![GAN structure](/img/gan1.png)
-
-This type is known for creating realistic "fake" persons and landscapes.
-
-**Keywords**: neural network, Keras, Tensorflow
-![GAN structure](/img/gan0.png)
-
-Used technologies:
-- [Python](https://www.python.org/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
-
-### Uni Laboratory example: Measurement speed of light
+## Laboratory example: Measurement speed of light
 Using a camera and a rotating mirror setup. Example for creating python plots.
 
 **Keywords**: image processing, optics, physics
@@ -135,6 +117,16 @@ Used technologies:
 - [Python](https://www.python.org/)
 - [OpenCV](https://github.com/opencv/opencv)
 - [LaTeX](https://www.latex-project.org/)
+
+## Blender
+Experimenting with blender and the Tyrolean-Geographic information system (Datenquelle: Land Tirol - data.tirol.gv.at). Created a render from my hometown-mountain.
+
+**Keywords**: Blender, GIS, rendering
+![example blender image](/img/blender_gis0.png)
+
+Used technologies:
+- [Blender](https://www.blender.org/)
+- [QGIS](https://www.qgis.org/de/site/index.html)
 
 ___
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

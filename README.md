@@ -16,6 +16,10 @@ Used technologies:
 - [GLFW](https://github.com/glfw/glfw)
 - [assimp](https://github.com/assimp/assimp)
 
+**# gans-for-spin-models** 
+Current active bachelor thesis.
+![example render image](/img/spin_lattice.png)
+
 ## Physical simulations
 Classical/Quantum simulations.
 
